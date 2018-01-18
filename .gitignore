@@ -1,0 +1,6 @@
+# autocad backup files
+*.bak
+
+# autocad temp files
+*.dwl
+*.dwl2
