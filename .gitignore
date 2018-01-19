@@ -4,3 +4,6 @@
 # autocad temp files
 *.dwl
 *.dwl2
+
+# log files
+*.log
